@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+.text-center {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.nav-link {
+  width: 13%;
+  border-right: 1px solid black;
+  text-align: center;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
+
+p {
+  margin: 15px;
+}
+#table {
+  padding: 20px 40px;
+}
+
+#form {
+  padding: 40px 100px;
+}
